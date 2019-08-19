@@ -1,2 +1,2 @@
-Hangman Game made first in C. It's gonna be adapted in C++ later.
+Hangman Game made first in C.
 External Files used to store the words and randomly pull them.
